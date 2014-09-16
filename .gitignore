@@ -1,0 +1,13 @@
+*.pyc
+.idea
+.DS_Store
+*~
+logs
+data.db
+*.sqlite3
+Thumbs.db
+media
+__pycache__
+bower_components
+node_modules
+backup
